@@ -7,8 +7,6 @@ No back-end, trabalho com .NET, C# (WebAPI, RESTful, MVC, Entity framework) e te
 
 Fiz estagio em desenvolvimento e trabalho há anos no setor de telefonia, tendo experiência em tecnologias como VoIP, PABX, SIP e protocolos de rede. 
 
-GitHub: https://github.com/Brunodesenvolvedor
-
 
 ## Meus perfis pela rede: 
 
