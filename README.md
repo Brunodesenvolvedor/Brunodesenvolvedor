@@ -5,7 +5,7 @@ Programador graduado em Análise e Desenvolvimento de Sistemas pela PUC Minas.
 
 No back-end, trabalho com .NET, C# (WebAPI, RESTful, MVC, Entity framework) e tenho noções de Java e Python; no front-end, conheço HTML e JavaScript.  Conheço também POO, modelagem de dados, SQL, metodologias ágeis e versionamento de código com Git e GitHub.
 
-Fiz estagio em desenvolvimento, trabalhei no setor de telefonia (tendo experiência em tecnologias como VoIP, PABX, SIP e protocolos de rede), tive um breve contato com NOC e agora atuo com suporte. 
+Fiz estagio em desenvolvimento, trabalhei no setor de telefonia (tendo experiência em tecnologias como VoIP, PABX, SIP e protocolos de rede), tive um breve contato com NOC e agora atuo com suporte, enquanto sigo estudando programação. 
 
 
 ## Meus perfis pela rede: 
